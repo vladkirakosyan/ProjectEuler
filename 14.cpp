@@ -20,7 +20,7 @@ int f(long long int num)
 		else {
 			num = num * 3 + 1;
 		}
-		//std::cout << num << " ";
+		std::cout << num << " ";
 	}
 	std::cout << "counter is " << counter + 1 << "\t";
 	std::cout << std::endl;
